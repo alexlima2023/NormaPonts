@@ -11732,3 +11732,9 @@ html {
     left: -2vw;
   }
 }
+
+/* Edit's */
+.logo-norma {
+  width: 300px;
+  height: 100px;
+}
